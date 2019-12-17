@@ -13,7 +13,7 @@
 
 ## 사진
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/background.png) 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/MainIntro.png)
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/getCharacter.png) 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/character.png)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/background.jpg) 
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/MainIntro.jpg)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/getCharacter.jpg) 
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/character.jpg)
