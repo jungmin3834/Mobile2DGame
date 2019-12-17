@@ -13,7 +13,9 @@
 
 ## 사진
 
-![title](https://github.com/jungmin3834/Mobile2DGame/blob/master/image/background.jpg) 
-![title](https://github.com/jungmin3834/Mobile2DGame/blob/master/image/MainIntro.jpg)
-![title](https://github.com/jungmin3834/Mobile2DGame/blob/master/image/getCharacter.jpg) 
-![title](https://github.com/jungmin3834/Mobile2DGame/blob/master/image/character.jpg)
+<div>
+<img width="200" src="https://github.com/jungmin3834/Mobile2DGame/blob/master/image/background.jpg">
+<img width="200" src="https://github.com/jungmin3834/Mobile2DGame/blob/master/image/MainIntro.jpg">
+ <img width="200" src="https://github.com/jungmin3834/Mobile2DGame/blob/master/image/getCharacter.jpg">
+ <img width="200" src="https://github.com/jungmin3834/Mobile2DGame/blob/master/image/character.jpg">
+ </div>
